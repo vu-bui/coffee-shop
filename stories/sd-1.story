@@ -3,4 +3,5 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
-    Update this one
+    When Update this one
+    Then Update this one
