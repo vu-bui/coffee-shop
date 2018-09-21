@@ -1,4 +1,3 @@
 Feature: SD-1 Feature
 
-  Scenario:
-    <Some interesting scenario steps here>
+  Scenario: 1st scenario
