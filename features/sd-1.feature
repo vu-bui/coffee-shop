@@ -1,5 +1,4 @@
-Feature:
-  SD-1 Feature
+Feature: SD-1 Feature
 
   Scenario:
     <Some interesting scenario steps here>
